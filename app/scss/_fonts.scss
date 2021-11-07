@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "nunito-bold";
+  font-weight: 700;
+  font-style: normal;
+  src: local("nunito-bold"), 
+  url("../fonts/nunito-bold.woff2") format("woff2"),
+  url("../fonts/nunito-bold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "philosopher-bold";
+  font-weight: 700;
+  font-style: normal;
+  src: local("philosopher-bold"), 
+  url("../fonts/philosopher-bold.woff2") format("woff2"),
+  url("../fonts/philosopher-bold.woff") format("woff");
+  font-display: swap;
+}
